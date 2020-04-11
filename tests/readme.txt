@@ -1,0 +1,2 @@
+HZK16S¡¢HZK16£º×Ö¿âÎÄ¼þ
+ascii16.h£ºASCII
